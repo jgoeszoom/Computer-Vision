@@ -29,3 +29,7 @@ This is just how the program was initially created but can be altered accordingl
 ## Acknowledgements ##
 * [Glen De Backer](https://www.simplicity.be/article/recognizing-dices/) - Inspiration for our project
 
+# Bugs #
+* Occassionally will not determine all of the die pits
+* Will sometimes detect extra objects in image that are not die pits
+* Will correctly identify die value but use an object that is not a die pit to calculate the correct value
